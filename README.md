@@ -2,12 +2,8 @@
 [![Build Status](https://travis-ci.org/zardus/ctf-tools.svg?branch=master)](https://travis-ci.org/zardus/ctf-tools)
 [![IRC](https://img.shields.io/badge/freenode-%23ctf--tools-green.svg)](http://webchat.freenode.net/?channels=#ctf-tools)
 
-This is a collection of setup scripts to create an install of various security research tools.
-Of course, this isn't a hard problem, but it's really nice to have them in one place that's easily deployable to new machines and so forth.
-The install-scripts for these tools are checked regularly, the results can be found on [the build status page](_buildstatus/index.md).
-
-Installers for the following tools are included:
-
+这是一组安装脚本，用于创建各种安全研究工具的安装。当然，这不是一个很难的问题，但是将它们放在一个易于部署到新机器上的地方确实很好。定期检查这些工具的安装脚本，结果可以在build status页面上找到。
+安装下列工具包括:
 | Category | Source | Tool | Description |
 |----------|--------|------|-------------|
 | binary | Directory | [afl](http://lcamtuf.coredump.cx/afl/) | State-of-the-art fuzzer. | <!--tool--> <!--times-out-->

@@ -4,6 +4,7 @@
 
 这是一组安装脚本，用于创建各种安全研究工具的安装。当然，这不是一个很难的问题，但是将它们放在一个易于部署到新机器上的地方确实很好。定期检查这些工具的安装脚本，结果可以在build status页面上找到。
 安装下列工具包括:
+
 | Category | Source | Tool | Description |
 |----------|--------|------|-------------|
 | binary | Directory | [afl](http://lcamtuf.coredump.cx/afl/) | State-of-the-art fuzzer. | <!--tool--> <!--times-out-->
